@@ -1,0 +1,19 @@
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos
+y en otro no.
+
+un lenguaje de programacion es una manera de entender ñp que dice y/o hace el ordenador y si entiendes su lenguaje puedes decirle que hacer al ordenador.
+
+cualquier lenguaje de programacion puede usarse en un sistema operativosiempre y cuando haya un interprete o compilador (segun corresponda al lenguaje en cuestion) si es que deseas programar en esa maquina con ese sistema operativo. Obvio si no hay tal interprete o compilador no podras usar ESE, tu lenguaje favorito, en ese sistema.
+
+Que  tipo de maquina virtual soporta virtual box
+
+Los sistemas operativos que se pueden emular con VirtualBox son Windows (3.x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+
+Que funcion cumple el hipervisor en la virtualizacion
+
+Los hipervisores permiten aprovechar mejor los recursos disponibles de un sistema y proporcionan mayor movilidad de TI, puesto que las maquinas virtuales invitadas son independientes del hardware del host. Esto significa que se pueden trasladar facilmente entre diferentes servidores.
+Un hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+Si tengo ams de una maquina virtual instalada y una se rompe esto afecta a las demas por que
+
+Las maquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicacion de forma separada. De ese modo, si una de ellas falla, no afectara al funcionamiento del resto.
